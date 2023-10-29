@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m  working on [Consults24](https://c24webdev.accelx.net/)
+- 🔭 I was  working on [Consults24](https://c24webdev.accelx.net/)
 
 <h3 align="left">📫 You can reach me by email tasim.swe@gmail.com.</h3>
 <p align="left">
