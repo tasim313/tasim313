@@ -1,29 +1,3 @@
-# 👋 Hi, I’m @Mostasim Mahmud Tasim
-
-👀 I’m interested in JavaScript, React.js, Next.js, Node.js, Python, Django Rest Framework.
-
-👨‍💻 I work for a software company, where I build web applications using various technologies, including JavaScript, React.js, Next.js, Node.js, Python, and Django Rest Framework.
-
-
-
----
-
-
-
-
-
-
-### Technologies I Love
-
-- JavaScript
-- React.js
-- Next.js
-- Node.js
-- Python
-- Django Rest Framework
-
-
-
 <h1 align="center">Hi 👋, I'm Mostasim Mahmud Tasim</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
@@ -35,7 +9,7 @@
 
 - 🔭 I’m currently working on [Consults24](https://c24webdev.accelx.net/)
 
-<h3 align="left">📫 You can reach me by email [tasim.swe@gmail.com](mailto:tasim.swe@gmail.com).</h3>
+<h3 align="left">📫 You can reach me by email tasim.swe@gmail.com.</h3>
 <p align="left">
 </p>
 
