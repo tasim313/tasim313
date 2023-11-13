@@ -9,7 +9,7 @@
 
 - 🔭 I was  working on [Consults24](https://c24webdev.accelx.net/)
 
-- 🔭 personal project [Google Clone](https://google-clone-jfm62zlnp-tasims-projects.vercel.app/)
+- 🔭 personal project practice [Google Clone](https://google-clone-jfm62zlnp-tasims-projects.vercel.app/) [IMDB Clone](https://imdb-clone-2.vercel.app/)
 
 <h3 align="left">📫 You can reach me by email tasim.swe@gmail.com.</h3>
 <p align="left">
