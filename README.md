@@ -74,8 +74,8 @@ A comprehensive **SaaS application** for schools and colleges worldwide, providi
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostasimmahmud&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostasimmahmud&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tasim313&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasim313&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
