@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mostasim Mahmud Tasim</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Waving Hand" width="50" height="50" style="vertical-align: middle;" /> Hi, I'm Mostasim Mahmud Tasim</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
