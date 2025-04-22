@@ -78,6 +78,9 @@ A comprehensive **SaaS application** for schools and colleges worldwide, providi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasim313&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 😴 Tasim's Contribution Graph
+[![Tasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tasim313&bg_color=658b73&color=a6fe4d&line=1c1c1c&point=00d60e&area=true&hide_border=true)](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
+
 ---
 
 ### 📫 Let's Connect!
