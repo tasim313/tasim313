@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/tasim313/tasim313/blob/main/icon.gif" alt="Animated Icon" width="50" height="50" style="vertical-align: middle;" /> Hey! I'm Mostasim Mahmud Tasim</h1>
+<h1 align="center"><img src="https://github.com/tasim313/tasim313/blob/main/icon.gif" alt="Animated Icon" width="50" height="50" style="vertical-align: middle;" /> Hey! I'm Md Mostasim Mahmud</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
