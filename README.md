@@ -34,26 +34,38 @@
   
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>🩺 <a href="https://consults24.com/">Consults24</a></h4>
-    <img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
     <p>A telemedicine platform for video consultations, built as part of a professional engagement.</p>
   </div>
 
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>🔍 <a href="https://google-clone-jfm62zlnp-tasims-projects.vercel.app/">Google Clone</a></h4>
-    <img src="https://api.microlink.io/?url=https://google-clone-jfm62zlnp-tasims-projects.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <img src="https://api.microlink.io/?url=https://google-clone-jfm62zlnp-tasims-projects.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
     <p>A search engine interface recreation with a responsive design.</p>
   </div>
 
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>🎥 <a href="https://imdb-clone-2.vercel.app/">IMDB Clone</a></h4>
-    <img src="https://api.microlink.io/?url=https://imdb-clone-2.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <img src="https://api.microlink.io/?url=https://imdb-clone-2.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
     <p>A movie database web app built with React and external APIs.</p>
   </div>
 
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>🎓 School Management System</h4>
-    <img src="https://via.placeholder.com/300x180?text=School+ERP" width="100%" alt="School Management System" />
     <p>A SaaS app for schools/colleges with attendance, exam, and teacher/student management.</p>
+  </div>
+
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>🎥 <a href="https://online-comic-store.vercel.app/">Online Comic Store</a></h4>
+    <img src="https://api.microlink.io/?url=https://online-comic-store.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
+    <p>E-commerce single-page application for selling comic books</p>
+  </div>
+
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>Port scanner</h4>
+    ![Screenshot from 2025-05-25 17-39-09](https://github.com/user-attachments/assets/a31e8579-5994-40d5-bc3f-f2fda481f1ea)
+    ![Screenshot from 2025-05-25 17-32-03](https://github.com/user-attachments/assets/30b3fe46-3acb-43b1-8ef3-78d21ce06562)
+    <p>Port scanner in Python that includes boot persistence, automatic virtual environment setup, and all the scanning capabilities you requested.</p>
   </div>
 
 </div>
