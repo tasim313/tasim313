@@ -29,17 +29,34 @@
 ---
 
 ### 🔭 Featured Projects
-#### 🩺 [Consults24](https://c24webdev.accelx.net/)
-A telemedicine platform for video consultations, built as part of a professional engagement.
 
-#### 🔍 [Google Clone](https://google-clone-jfm62zlnp-tasims-projects.vercel.app/)
-A search engine interface recreation with a responsive design.
+<div align="center" style="display: flex; overflow-x: auto; padding: 1rem; gap: 1rem;">
+  
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>🩺 <a href="https://consults24.com/">Consults24</a></h4>
+    <img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <p>A telemedicine platform for video consultations, built as part of a professional engagement.</p>
+  </div>
 
-#### 🎥 [IMDB Clone](https://imdb-clone-2.vercel.app/)
-A movie database web app built with React and external APIs.
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>🔍 <a href="https://google-clone-jfm62zlnp-tasims-projects.vercel.app/">Google Clone</a></h4>
+    <img src="https://api.microlink.io/?url=https://google-clone-jfm62zlnp-tasims-projects.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <p>A search engine interface recreation with a responsive design.</p>
+  </div>
 
-#### 🎓 School Management System (Non-Profit Initiative)
-A comprehensive **SaaS application** for schools and colleges worldwide, providing features for attendance, exam control, student/teacher management, and more.
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>🎥 <a href="https://imdb-clone-2.vercel.app/">IMDB Clone</a></h4>
+    <img src="https://api.microlink.io/?url=https://imdb-clone-2.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+    <p>A movie database web app built with React and external APIs.</p>
+  </div>
+
+  <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    <h4>🎓 School Management System</h4>
+    <img src="https://via.placeholder.com/300x180?text=School+ERP" width="100%" alt="School Management System" />
+    <p>A SaaS app for schools/colleges with attendance, exam, and teacher/student management.</p>
+  </div>
+
+</div>
 
 ---
 
