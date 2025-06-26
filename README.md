@@ -63,8 +63,8 @@
 
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>Port scanner</h4>
-    ![Screenshot from 2025-05-25 17-39-09](https://github.com/user-attachments/assets/a31e8579-5994-40d5-bc3f-f2fda481f1ea)
-    ![Screenshot from 2025-05-25 17-32-03](https://github.com/user-attachments/assets/30b3fe46-3acb-43b1-8ef3-78d21ce06562)
+    <img src="https://api.microlink.io/?url=https://github-production-user-asset-6210df.s3.amazonaws.com/66787305/447327879-30b3fe46-3acb-43b1-8ef3-78d21ce06562.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250626T093308Z&X-Amz-Expires=300&X-Amz-Signature=08ad0012356366106b7ac0a75bc172e62d2c5d8efc09caf865d17a42d6b5547b&X-Amz-SignedHeaders=host&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
+    <img src="https://api.microlink.io/?url=https://github-production-user-asset-6210df.s3.amazonaws.com/66787305/447327873-a31e8579-5994-40d5-bc3f-f2fda481f1ea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250626T093224Z&X-Amz-Expires=300&X-Amz-Signature=ff34ded2208ee9a4a32ddee8e895cd8f6ff6921adb228989ea4bfe147bdebdd8&X-Amz-SignedHeaders=host&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
     <p>Port scanner in Python that includes boot persistence, automatic virtual environment setup, and all the scanning capabilities you requested.</p>
   </div>
 
