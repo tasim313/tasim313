@@ -34,7 +34,7 @@
   
   <div style="min-width: 300px; border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
     <h4>🩺 <a href="https://consults24.com/">Consults24</a></h4>
-    <img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
+    <!-- <img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" width="50%" /> -->
     <p>A telemedicine platform for video consultations, built as part of a professional engagement.</p>
   </div>
 
