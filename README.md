@@ -30,11 +30,57 @@
 
 ### 🔭 Featured Projects
 
+<table>
+<tr>
+<td width="33%">
+<a href="https://consults24.com/">
+<img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" alt="Consults24" width="100%"/>
+</a>
+<h4 align="center">🩺 Consults24</h4>
+<p align="center">Telemedicine platform for video consultations</p>
+</td>
+
+<td width="33%">
+<a href="https://google-clone-jfm62zlnp-tasims-projects.vercel.app/">
+<img src="https://api.microlink.io/?url=https://google-clone-jfm62zlnp-tasims-projects.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Google Clone" width="100%"/>
+</a>
+<h4 align="center">🔍 Google Clone</h4>
+<p align="center">Search engine interface recreation</p>
+</td>
+
+<td width="33%">
+<a href="https://imdb-clone-2.vercel.app/">
+<img src="https://api.microlink.io/?url=https://imdb-clone-2.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="IMDB Clone" width="100%"/>
+</a>
+<h4 align="center">🎥 IMDB Clone</h4>
+<p align="center">Movie database web app</p>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+<h4 align="center">🎓 School Management</h4>
+<p align="center">SaaS for schools with attendance & exam management</p>
+</td>
+
+<td width="33%">
+<a href="https://online-comic-store.vercel.app/">
+<img src="https://api.microlink.io/?url=https://online-comic-store.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Comic Store" width="100%"/>
+</a>
+<h4 align="center">📚 Comic Store</h4>
+<p align="center">E-commerce for comic books</p>
+</td>
+
+<td width="33%">
+<h4 align="center">🔐 Port Scanner</h4>
+<p align="center">Python port scanner with auto-setup</p>
+</td>
+</tr>
+</table>
+
 <div align="center">
   
-[![Project Slider](https://api.microlink.io/?url=https://tasim313.github.io/Project-Slider/&screenshot=true&meta=false&embed=screenshot.url)](https://tasim313.github.io/Project-Slider/)
-
-**[🎨 Click to View Interactive Slider →](https://tasim313.github.io/Project-Slider/)**
+**[🎨 View Full Interactive Slider →](https://tasim313.github.io/Project-Slider/)**
 
 </div>
 
