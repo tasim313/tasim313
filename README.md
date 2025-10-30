@@ -28,7 +28,15 @@
 
 ---
 
-### 🔭 [Featured Projects →](https://tasim313.github.io/Project-Slider/)
+### 🔭 Featured Projects
+
+<div align="center">
+  
+[![Project Slider](https://api.microlink.io/?url=https://tasim313.github.io/Project-Slider/&screenshot=true&meta=false&embed=screenshot.url)](https://tasim313.github.io/Project-Slider/)
+
+**[🎨 Click to View Interactive Slider →](https://tasim313.github.io/Project-Slider/)**
+
+</div>
 
 ---
 
