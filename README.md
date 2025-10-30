@@ -34,7 +34,6 @@
 <tr>
 <td width="33%">
 <a href="https://consults24.com/">
-<img src="https://api.microlink.io/?url=https://consults24.com/&screenshot=true&meta=false&embed=screenshot.url" alt="Consults24" width="100%"/>
 </a>
 <h4 align="center">🩺 Consults24</h4>
 <p align="center">Telemedicine platform for video consultations</p>
@@ -73,6 +72,8 @@
 
 <td width="33%">
 <h4 align="center">🔐 Port Scanner</h4>
+<img src="https://api.microlink.io/?url=https://github.com/user-attachments/assets/a31e8579-5994-40d5-bc3f-f2fda481f1ea&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
+<img src="https://api.microlink.io/?url=https://github.com/user-attachments/assets/30b3fe46-3acb-43b1-8ef3-78d21ce06562&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
 <p align="center">Python port scanner with auto-setup</p>
 </td>
 </tr>
